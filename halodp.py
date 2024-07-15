@@ -56,9 +56,6 @@ print(p_dk14.par)
 print(p_hernquist.par)
 #print(p_dk14.densityOuter(r))
 
-#mass of DM particle (this value needed if you want to know number of DM particle)
-m=100
-
 #plot the graph
 plt.figure()
 plt.loglog()
